@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--suppress AndroidDomInspection -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    >
+    package="com.rutvi.mad_assignment_2_21012011123">
 
     <application
         android:allowBackup="true"
@@ -11,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Calculator">
-        <activity android:name="Hello"
-            tools:ignore="MissingClass"
+        <activity android:name="com.rutvi.mad_assignment_2_21012011123.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

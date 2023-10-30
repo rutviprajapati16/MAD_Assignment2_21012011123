@@ -44,7 +44,8 @@
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:stretchColumns="*">
+        android:stretchColumns="*"
+        >
 
         <TableRow>
 
@@ -172,8 +173,10 @@
                 android:id="@+id/button_croxx"
                 android:layout_width="wrap_content"
                 android:layout_height="90dp"
+                android:background="@drawable/btn_bg"
                 style="@style/Button_Style"
-                android:text="AC" />
+                android:text="AC"
+                />
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/button_0"
