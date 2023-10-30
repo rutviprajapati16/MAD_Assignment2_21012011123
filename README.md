@@ -5,6 +5,7 @@
 This is a simple calculator app that can perform basic arithmetic operations (addition, subtraction, multiplication, and division).
 
 **Why it is used?**
+
 Its useful for simple calculations.
 
 **Features:**
