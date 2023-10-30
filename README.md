@@ -26,16 +26,16 @@ To use the calculator app, simply open it and enter the numbers you want to calc
 
 **Simple Calculator App:**
 
-<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/b7817fa9-737d-4e5e-95b6-8771e984b009 height="400" width="400">
+<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/b7817fa9-737d-4e5e-95b6-8771e984b009 height="500" width="350">
 
 
-<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a0fc11fe-d2a6-4e78-9d06-4360ae1cb1af height="400" width="400">
+<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a0fc11fe-d2a6-4e78-9d06-4360ae1cb1af height="500" width="350">
 
 
-<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/d7074e4b-938a-4b4f-ba82-fb3af688fcb1 height="400" width="400">
+<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/d7074e4b-938a-4b4f-ba82-fb3af688fcb1 height="500" width="350">
 
 
-<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a2f703ec-c56c-4cce-b521-7a7960591b24 height="400" width="400">
+<img src=https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a2f703ec-c56c-4cce-b521-7a7960591b24 height="500" width="350">
 
 
 
