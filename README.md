@@ -26,5 +26,7 @@ To use the calculator app, simply open it and enter the numbers you want to calc
 
 **Simple Calculator App:**
 
-![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/3b3853a1-320f-4bea-9e07-bde9a8b9b17e)
+![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/496c9524-617e-4c86-9c1c-76ab833f77fc)
+
+
 
