@@ -26,13 +26,18 @@ To use the calculator app, simply open it and enter the numbers you want to calc
 
 **Simple Calculator App:**
 
-<img src="https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/5c9b8af6-757f-4f54-82bc-56b884d98f7c" height="200" width="500" border="2 px">
+![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/b7817fa9-737d-4e5e-95b6-8771e984b009)
 
-![04](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/f860abaa-94f2-4cf1-929c-39405bf6e11a)
 
-![O6](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/6a22f872-065c-42f5-9d25-4229b516c855)
+![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a0fc11fe-d2a6-4e78-9d06-4360ae1cb1af)
 
-![O1](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/bc6083c3-fb04-46f6-a1ca-856ef863a0f8)
+
+![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/d7074e4b-938a-4b4f-ba82-fb3af688fcb1)
+
+
+![image](https://github.com/rutviprajapati16/MAD_Assignment2_21012011123/assets/97946004/a2f703ec-c56c-4cce-b521-7a7960591b24)
+
+
 
 
 
