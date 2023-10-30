@@ -6,8 +6,11 @@ Its useful for simple calculations.
 **Features:**
 
 Add
+
 Multiply
+
 Subtract
+
 Divide
 
 **Output:**
